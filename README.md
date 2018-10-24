@@ -8,4 +8,4 @@ After you clone to a folder
 
 Use command line to `cd` into that folder
 
-then do `start index`
+then do `start index.html`
